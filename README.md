@@ -15,19 +15,19 @@ MindSpace is a web-based platform designed to provide users with resources, self
 
 📸 Preview
 
-![Main UI](screenshots/Screenshot1.png)
+![Main UI](screenshots/screenshot1.png)
 
-### Settings Panel
+### volunteer support
 
-![Settings Panel](screenshots/Screenshot2.png)
+![Settings Panel](screenshots/screenshot2.png)
 
-### Data Table View
+### About
 
-![Data Table View](screenshots/Screenshot3.png)
+![Data Table View](screenshots/screenshot3.png)
 
-### Chart View
+### Ai chatbot
 
-![Chart View](screenshots/Screenshot4.png)
+![Chart View](screenshots/screenshot4.png)
 
 🚀 Tech Stack
 Frontend: React, Tailwind CSS
