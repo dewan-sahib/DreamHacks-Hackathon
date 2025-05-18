@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+.app-sections {
+    min-width: fit-content;
+    max-width: 100vw;
+    min-height: 100vh;
+    max-height: fit-content;
+}
