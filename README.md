@@ -17,7 +17,7 @@ MindSpace is a web-based platform designed to provide users with resources, self
 
 ![Main UI](screenshots/screenshot1.png)
 
-### volunteer support
+### Ai chatbot
 
 ![Settings Panel](screenshots/screenshot2.png)
 
@@ -25,7 +25,7 @@ MindSpace is a web-based platform designed to provide users with resources, self
 
 ![Data Table View](screenshots/screenshot3.png)
 
-### Ai chatbot
+### Volunteer support
 
 ![Chart View](screenshots/screenshot4.png)
 
