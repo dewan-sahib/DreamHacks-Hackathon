@@ -10,3 +10,37 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🧠 MindSpace — Mental Health Support Platform
+MindSpace is a web-based platform designed to provide users with resources, self-care tools, and community support for mental health. Built with React, Tailwind CSS, and a Flask backend, it offers a clean, responsive, and interactive user experience.
+
+📸 Preview
+
+![Main UI](screenshots/Screenshot1.png)
+
+### Settings Panel
+
+![Settings Panel](screenshots/Screenshot2.png)
+
+### Data Table View
+
+![Data Table View](screenshots/Screenshot3.png)
+
+### Chart View
+
+![Chart View](screenshots/Screenshot4.png)
+
+🚀 Tech Stack
+Frontend: React, Tailwind CSS
+
+Backend: Flask (Python)
+
+
+
+API: RESTful endpoints via Flask
+
+📦 Features
+📚 ai chat for imerssive and friendly chats
+
+📝 volunteer support
+
+
