@@ -9,23 +9,21 @@ export default function About() {
       </p>
       <div className="flex flex-col lg:flex-row">
         <img
-          src="man-laptop.jpg.avif"
+          src="public/mental.png"
           className="w-full h-full"
           alt="person working on laptop"
+          style={{ maxWidth: "400px", maxHeight: "400px" }}
         />
         <div className="flex flex-col self-center mt-3 justify-center align-center">
           <p className="self-center text-xl font-semibold text-black pb-2">
             About
           </p>
           <p className="self-center w-[80%] pb-5">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quis
-            tellus vitae odio hendrerit ultricies ut venenatis tellus. Aenean a
-            consequat lectus, ut pretium est. Fusce at nibh nec libero bibendum
-            bibendum vitae at augue. Pellentesque quis urna ac est bibendum
-            vestibulum. Sed a accumsan felis. Phasellus in velit sit amet orci
-            consequat faucibus in et diam. Duis nec dictum diam. Nullam sed
-            eleifend ipsum. Maecenas venenatis luctus urna eu feugiat. Morbi
-            volutpat lacus eu iaculis finibus.
+            We are a team of dedicated volunteers who are passionate about
+            helping individuals in need. Our mission is to provide support and
+            resources to those who may be struggling with mental health issues.
+            We believe that everyone deserves access to the help they need, and
+            we are committed to making a difference in our community.
           </p>
           <button
             className="bg-blue-500 w-[30%] h-fit p-3 rounded-xl text-white self-center cursor-pointer hover:shadow-lg"
